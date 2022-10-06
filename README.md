@@ -14,4 +14,4 @@
 | 4. | User Authentication and Authorization | Building auth for the backend.|
 | 5. | Course upload system | Development of course upload system and infra so that instructors can create and upload the course.|
 | 6. | Student rating and review system | Development of review and rating system so that students can review a course.|
-| 7. | API and Infrastructure | We are building our backend using Django due to it's strong ORM support. We will be using DRF(Django Rest Framework) to build the API layer. We will be using **py-substrate-api** library to communicate with Blockchain.|
+| 7. | API and Infrastructure | We are building our backend using Django due to it's strong ORM support. We will be using DRF(Django Rest Framework) to build the API layer. We will be using **solanapy** library to communicate with Blockchain.|
